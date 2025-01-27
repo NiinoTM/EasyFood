@@ -1,0 +1,51 @@
+[
+  {
+    "food_name": "Leite Integral (UHT)",
+    "quantity": 800.0,
+    "unit": "ml",
+    "date": "26/01/2025",
+    "reason": "shake"
+  },
+  {
+    "food_name": "Aveia em Flocos",
+    "quantity": 100.0,
+    "unit": "g",
+    "date": "26/01/2025",
+    "reason": "shake"
+  },
+  {
+    "food_name": "Banana",
+    "quantity": 3.0,
+    "unit": "unidades",
+    "date": "26/01/2025",
+    "reason": "Shake + cafe da manha"
+  },
+  {
+    "food_name": "Ovo",
+    "quantity": 3.0,
+    "unit": "unidades",
+    "date": "26/01/2025",
+    "reason": "cafe da manha"
+  },
+  {
+    "food_name": "Goma de Tapioca",
+    "quantity": 100.0,
+    "unit": "g",
+    "date": "26/01/2025",
+    "reason": "cafe da manha"
+  },
+  {
+    "food_name": "Pasta de Amendoim com A\u00e7ucar",
+    "quantity": 35.0,
+    "unit": "g",
+    "date": "26/01/2025",
+    "reason": "shake"
+  },
+  {
+    "food_name": "Arroz Cozido",
+    "quantity": 200.0,
+    "unit": "g",
+    "date": "26/01/2025",
+    "reason": "almo\u00e7o"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Gomes Supermercado",
+    "type": "mercado",
+    "location": "Sampaio Correia"
+  },
+  {
+    "name": "Almeida Supermercado",
+    "type": "mercado",
+    "location": "Basileia"
+  }
+]
