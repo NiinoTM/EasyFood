@@ -1,0 +1,70 @@
+2025-01-26 03:01:30,774 - INFO - Backup criado: backups\backup_20250126_0301
+2025-01-26 03:04:15,051 - INFO - Backup criado: backups\backup_20250126_0304
+2025-01-26 03:08:25,675 - INFO - Backup criado: backups\backup_20250126_0308
+2025-01-26 03:08:53,860 - INFO - Backup criado: backups\backup_20250126_0308
+2025-01-26 03:09:55,480 - INFO - Backup criado: backups\backup_20250126_0309
+2025-01-26 03:10:47,389 - INFO - Backup criado: backups\backup_20250126_0310
+2025-01-26 03:17:04,351 - INFO - Backup criado: backups\backup_20250126_0317
+2025-01-26 03:23:26,791 - INFO - Backup criado: backups\backup_20250126_0323
+2025-01-26 03:24:24,388 - INFO - Backup criado: backups\backup_20250126_0324
+2025-01-26 03:24:24,651 - INFO - Backup criado: backups\backup_20250126_0324
+2025-01-26 03:28:01,756 - ERROR - Falha no backup: 'BackupManager' object has no attribute 'data_files'
+2025-01-26 03:28:25,707 - ERROR - Falha no backup: 'BackupManager' object has no attribute 'data_files'
+2025-01-26 03:30:26,181 - ERROR - Falha no backup: 'BackupManager' object has no attribute 'data_files'
+2025-01-26 03:31:05,115 - ERROR - Falha no backup: 'BackupManager' object has no attribute 'data_files'
+2025-01-26 03:32:20,775 - ERROR - Falha no backup: 'BackupManager' object has no attribute 'data_files'
+2025-01-26 03:32:21,016 - ERROR - Falha no backup: 'BackupManager' object has no attribute 'data_files'
+2025-01-26 03:32:21,832 - ERROR - Falha no backup: 'BackupManager' object has no attribute 'data_files'
+2025-01-26 03:37:26,351 - ERROR - Falha no backup: 'BackupManager' object has no attribute 'data_files'
+2025-01-26 03:55:13,867 - INFO - Backup removido: backups\backup_20250126_032825
+2025-01-26 03:55:13,867 - INFO - Backup removido: backups\backup_20250126_032801
+2025-01-26 03:55:13,869 - INFO - Backup removido: backups\backup_20250126_0324
+2025-01-26 03:55:13,871 - INFO - Backup removido: backups\backup_20250126_0323
+2025-01-26 03:55:13,872 - INFO - Backup removido: backups\backup_20250126_0317
+2025-01-26 03:55:13,873 - INFO - Backup removido: backups\backup_20250126_0310
+2025-01-26 03:55:13,874 - INFO - Backup removido: backups\backup_20250126_0309
+2025-01-26 03:55:13,875 - INFO - Backup removido: backups\backup_20250126_0308
+2025-01-26 03:55:13,877 - INFO - Backup removido: backups\backup_20250126_0304
+2025-01-26 03:55:13,878 - INFO - Backup removido: backups\backup_20250126_0301
+2025-01-26 03:55:13,878 - INFO - Backup criado: backups\backup_20250126_035513_859
+2025-01-26 03:55:25,104 - INFO - Backup removido: backups\backup_20250126_033026
+2025-01-26 03:55:25,104 - INFO - Backup criado: backups\backup_20250126_035525_097
+2025-01-26 03:56:06,940 - INFO - Backup criado: backups\backup_20250126_035606_936
+2025-01-26 03:56:18,914 - INFO - Backup criado: backups\backup_20250126_035618_910
+2025-01-26 03:57:07,700 - INFO - Backup criado: backups\backup_20250126_035707_696
+2025-01-26 04:21:15,321 - INFO - Backup criado: backups\backup_20250126_042115_315
+2025-01-26 04:21:17,101 - INFO - Backup criado: backups\backup_20250126_042117_092
+2025-01-26 04:21:52,066 - INFO - Backup criado: backups\backup_20250126_042152_060
+2025-01-26 12:00:41,106 - INFO - Backup criado: backups\backup_20250126_120041_102
+2025-01-26 12:02:09,651 - INFO - Backup removido: backups\backup_20250126_035606_936
+2025-01-26 12:02:09,651 - INFO - Backup criado: backups\backup_20250126_120209_645
+2025-01-26 12:09:34,414 - INFO - Backup removido: backups\backup_20250126_035618_910
+2025-01-26 12:09:34,414 - INFO - Backup criado: backups\backup_20250126_120934_408
+2025-01-26 12:19:18,382 - INFO - Backup removido: backups\backup_20250126_035707_696
+2025-01-26 12:19:18,382 - INFO - Backup criado: backups\backup_20250126_121918_376
+2025-01-26 12:20:46,629 - INFO - Backup removido: backups\backup_20250126_042115_315
+2025-01-26 12:20:46,629 - INFO - Backup criado: backups\backup_20250126_122046_622
+2025-01-26 13:04:35,173 - INFO - Backup removido: backups\backup_20250126_042117_092
+2025-01-26 13:04:35,174 - INFO - Backup criado: backups\backup_20250126_130435_167
+2025-01-26 13:06:00,982 - INFO - Backup removido: backups\backup_20250126_042152_060
+2025-01-26 13:06:00,982 - INFO - Backup criado: backups\backup_20250126_130600_966
+2025-01-26 13:06:50,085 - INFO - Backup removido: backups\backup_20250126_120041_102
+2025-01-26 13:06:50,085 - INFO - Backup criado: backups\backup_20250126_130650_075
+2025-01-26 13:08:32,210 - INFO - Backup criado: backups\backup_20250126_130832_205
+2025-01-26 13:09:03,601 - ERROR - Erro na restauração: [WinError 233] Não há processo no outro extremo do pipe
+2025-01-26 13:10:50,749 - INFO - Backup criado: backups\backup_20250126_131050_744
+2025-01-26 13:18:28,784 - INFO - Backup criado: backups\backup_20250126_131828_779
+2025-01-26 13:33:08,873 - INFO - Backup criado: backups\backup_20250126_133308_861
+2025-01-26 13:41:51,563 - INFO - Backup criado: backups\backup_20250126_134151_556
+2025-01-26 13:47:48,965 - INFO - Backup criado: backups\backup_20250126_134748_949
+2025-01-26 13:47:49,248 - INFO - Backup criado: backups\backup_20250126_134749_236
+2025-01-26 13:50:42,558 - INFO - Backup criado: backups\backup_20250126_135042_553
+2025-01-26 13:54:41,035 - INFO - Backup criado: backups\backup_20250126_135441_030
+2025-01-26 13:55:29,942 - INFO - Backup criado: backups\backup_20250126_135529_932
+2025-01-26 14:00:24,949 - INFO - Backup criado: backups\backup_20250126_140024_942
+2025-01-26 14:03:00,025 - INFO - Backup criado: backups\backup_20250126_140300_015
+2025-01-26 14:48:50,776 - INFO - Backup criado: backups\backup_20250126_144850_769
+2025-01-26 18:47:10,703 - INFO - Backup removido: backups\backup_20250126_120209_645
+2025-01-26 18:47:10,703 - INFO - Backup criado: backups\backup_20250126_184710_692
+2025-01-26 18:47:11,216 - INFO - Backup removido: backups\backup_20250126_120934_408
+2025-01-26 18:47:11,216 - INFO - Backup criado: backups\backup_20250126_184711_204
