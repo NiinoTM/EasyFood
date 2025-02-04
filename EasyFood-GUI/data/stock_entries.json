@@ -32,7 +32,7 @@
     "supplier": "Gomes Supermercado"
   },
   {
-    "food_name": "Peito de Frango Grelhado",
+    "food_name": "Peito de Frango",
     "quantity": 680.0,
     "unit": "g",
     "cost": 9.51,
@@ -62,5 +62,61 @@
     "cost": 26.98,
     "date": "26/01/2025",
     "supplier": "Gomes Supermercado"
+  },
+  {
+    "food_name": "Peito de Frango",
+    "quantity": 960.0,
+    "unit": "g",
+    "cost": 19.99,
+    "date": "02/02/2025",
+    "supplier": "Supermercado Armazem"
+  },
+  {
+    "food_name": "Ovo",
+    "quantity": 60.0,
+    "unit": "unidades",
+    "cost": 37.98,
+    "date": "02/02/2025",
+    "supplier": "Supermercado Armazem"
+  },
+  {
+    "food_name": "Leite Integral (UHT)",
+    "quantity": 24000.0,
+    "unit": "ml",
+    "cost": 95.76,
+    "date": "03/02/2025",
+    "supplier": "Gomes"
+  },
+  {
+    "food_name": "Goma de Tapioca",
+    "quantity": 3500.0,
+    "unit": "g",
+    "cost": 38.43,
+    "date": "03/02/2025",
+    "supplier": "Gomes"
+  },
+  {
+    "food_name": "Aveia em Flocos",
+    "quantity": 2000.0,
+    "unit": "g",
+    "cost": 18.98,
+    "date": "03/02/2025",
+    "supplier": "Gomes"
+  },
+  {
+    "food_name": "Macarr\u00e3o Cozido com Sal",
+    "quantity": 1000.0,
+    "unit": "g",
+    "cost": 18.98,
+    "date": "03/02/2025",
+    "supplier": "Gomes"
+  },
+  {
+    "food_name": "Peito de Frango",
+    "quantity": 668.0,
+    "unit": "g",
+    "cost": 13.35,
+    "date": "03/02/2025",
+    "supplier": "Gomes"
   }
 ]

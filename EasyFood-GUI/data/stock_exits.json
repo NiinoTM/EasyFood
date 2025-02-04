@@ -47,5 +47,47 @@
     "unit": "g",
     "date": "26/01/2025",
     "reason": "almo\u00e7o"
+  },
+  {
+    "food_name": "Ovo",
+    "quantity": 27.0,
+    "unit": "unidades",
+    "date": "02/02/2025",
+    "reason": "Atualiza\u00e7\u00e3o de estoque"
+  },
+  {
+    "food_name": "Banana",
+    "quantity": 6.0,
+    "unit": "unidades",
+    "date": "02/02/2025",
+    "reason": "02/02/2025"
+  },
+  {
+    "food_name": "Goma de Tapioca",
+    "quantity": 400.0,
+    "unit": "g",
+    "date": "02/02/2025",
+    "reason": "Atualiza\u00e7\u00e3o de estoque"
+  },
+  {
+    "food_name": "Leite Integral (UHT)",
+    "quantity": 3200.0,
+    "unit": "ml",
+    "date": "02/02/2025",
+    "reason": "Atualiza\u00e7\u00e3o de estoque"
+  },
+  {
+    "food_name": "Peito de Frango",
+    "quantity": 680.0,
+    "unit": "g",
+    "date": "02/02/2025",
+    "reason": "Atualiza\u00e7\u00e3o de estoque"
+  },
+  {
+    "food_name": "Aveia em Flocos",
+    "quantity": 200.0,
+    "unit": "g",
+    "date": "02/02/2025",
+    "reason": "Atualiza\u00e7\u00e3o de estoque"
   }
 ]

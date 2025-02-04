@@ -1,0 +1,66 @@
+[
+  {
+    "food_name": "Ovo",
+    "quantity": 30.0,
+    "unit": "unidades",
+    "cost": 21.98,
+    "date": "26/01/2025",
+    "supplier": "Gomes Supermercado"
+  },
+  {
+    "food_name": "Pasta de Amendoim com A\u00e7ucar",
+    "quantity": 200.0,
+    "unit": "g",
+    "cost": 14.49,
+    "date": "26/01/2025",
+    "supplier": "Gomes Supermercado"
+  },
+  {
+    "food_name": "Banana",
+    "quantity": 9.0,
+    "unit": "unidades",
+    "cost": 7.19,
+    "date": "26/01/2025",
+    "supplier": "Gomes Supermercado"
+  },
+  {
+    "food_name": "Goma de Tapioca",
+    "quantity": 500.0,
+    "unit": "g",
+    "cost": 5.99,
+    "date": "26/01/2025",
+    "supplier": "Gomes Supermercado"
+  },
+  {
+    "food_name": "Peito de Frango Grelhado",
+    "quantity": 680.0,
+    "unit": "g",
+    "cost": 9.51,
+    "date": "26/01/2025",
+    "supplier": "Gomes Supermercado"
+  },
+  {
+    "food_name": "Aveia em Flocos",
+    "quantity": 450.0,
+    "unit": "g",
+    "cost": 13.49,
+    "date": "26/01/2025",
+    "supplier": "Gomes Supermercado"
+  },
+  {
+    "food_name": "Leite Integral (UHT)",
+    "quantity": 4000.0,
+    "unit": "ml",
+    "cost": 17.16,
+    "date": "26/01/2025",
+    "supplier": "Gomes Supermercado"
+  },
+  {
+    "food_name": "Arroz Cozido",
+    "quantity": 10000.0,
+    "unit": "g",
+    "cost": 26.98,
+    "date": "26/01/2025",
+    "supplier": "Gomes Supermercado"
+  }
+]

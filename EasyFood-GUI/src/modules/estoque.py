@@ -36,7 +36,7 @@ class EstoqueManager:
         # Solicita os dados da entrada
         quantity, ok = QInputDialog.getDouble(
             None, "Quantidade", f"Quantidade ({food.unit}):",
-            min=0.1, max=10000.0, decimals=2
+            min=0.1, max=100000.0, decimals=2
         )
         if not ok:
             return
@@ -100,8 +100,10 @@ class EstoqueManager:
         from PyQt6.QtWidgets import QInputDialog, QMessageBox
 
         # Solicita os dados da saída
+        dialog_text = f"Quantidade ({food.unit}):\n(Estoque total: {food.quantity_in_stock} {food.unit})"
+
         quantity, ok = QInputDialog.getDouble(
-            None, "Quantidade", f"Quantidade ({food.unit}):",
+            None, "Quantidade", dialog_text,
             min=0.1, max=food.quantity_in_stock, decimals=2
         )
         if not ok:

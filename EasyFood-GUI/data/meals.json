@@ -3,14 +3,14 @@
     "name": "Caf\u00e9 da Manh\u00e3",
     "foods": [
       {
-        "food_name": "Goma de Tapioca",
-        "quantity": 100.0,
-        "unit": "g"
-      },
-      {
         "food_name": "Ovo",
         "quantity": 2.0,
         "unit": "unidades"
+      },
+      {
+        "food_name": "Goma de Tapioca",
+        "quantity": 100.0,
+        "unit": "g"
       }
     ]
   },
@@ -18,24 +18,14 @@
     "name": "Shake da Manh\u00e3",
     "foods": [
       {
+        "food_name": "Aveia em Flocos",
+        "quantity": 100.0,
+        "unit": "g"
+      },
+      {
         "food_name": "Leite Integral (UHT)",
         "quantity": 400.0,
         "unit": "ml"
-      },
-      {
-        "food_name": "Aveia em Flocos",
-        "quantity": 50.0,
-        "unit": "g"
-      },
-      {
-        "food_name": "Banana",
-        "quantity": 1.0,
-        "unit": "unidades"
-      },
-      {
-        "food_name": "Pasta de Amendoim com A\u00e7ucar",
-        "quantity": 15.0,
-        "unit": "g"
       }
     ]
   },
@@ -48,14 +38,14 @@
         "unit": "g"
       },
       {
-        "food_name": "Peito de Frango Grelhado",
+        "food_name": "Peito de Frango",
         "quantity": 100.0,
         "unit": "g"
       },
       {
-        "food_name": "Azeite de Dend\u00ea",
-        "quantity": 5.0,
-        "unit": "ml"
+        "food_name": "Ovo",
+        "quantity": 1.0,
+        "unit": "unidades"
       }
     ]
   },
@@ -69,17 +59,7 @@
       },
       {
         "food_name": "Aveia em Flocos",
-        "quantity": 50.0,
-        "unit": "g"
-      },
-      {
-        "food_name": "Banana",
-        "quantity": 1.0,
-        "unit": "unidades"
-      },
-      {
-        "food_name": "Cacau em P\u00f3",
-        "quantity": 5.0,
+        "quantity": 100.0,
         "unit": "g"
       }
     ]
